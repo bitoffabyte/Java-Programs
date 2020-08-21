@@ -1,0 +1,10 @@
+a[0].place = "abc";
+        a[0].distance = 100;
+        a[0].activities[0][0] = "Skydiving";
+        a[0].activities[0][1] = "abc";
+        a[0].activities[0][2] = "def";
+        a[0].activities[0][3] = "ghi";
+        a[0].activities[1][0] = "Bungee Jumping";
+        a[0].activities[1][1] = "ghi";
+        a[0].activities[1][2] = "abc";
+        a[0].printMethod();
